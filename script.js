@@ -1,8 +1,8 @@
 const whatsappMessages = {
-  geral: "Olá, encontrei o site do Babá Elvis e gostaria de receber informações sobre o atendimento espiritual.",
-  avaliacao: "Olá, encontrei o site do Babá Elvis e gostaria de entender se uma consulta espiritual é indicada para minha situação amorosa.",
-  amarracao: "Olá, encontrei o site do Babá Elvis e gostaria de saber como funciona a avaliação para amarração amorosa.",
-  agendar: "Olá, encontrei o site do Babá Elvis e quero consultar a disponibilidade para agendar o jogo de búzios no valor de R$ 210,00."
+  geral: "Olá, encontrei o site de Bàbálórìsà Elvis de Osun e gostaria de receber informações sobre o atendimento espiritual.",
+  avaliacao: "Olá, encontrei o site de Bàbálórìsà Elvis de Osun e gostaria de entender se uma consulta espiritual é indicada para minha situação amorosa.",
+  amarracao: "Olá, encontrei o site de Bàbálórìsà Elvis de Osun e gostaria de saber como funciona a avaliação para amarração amorosa.",
+  agendar: "Olá, encontrei o site de Bàbálórìsà Elvis de Osun e quero consultar a disponibilidade para agendar o jogo de búzios no valor de R$ 210,00."
 };
 
 document.querySelectorAll("[data-wa]").forEach((link) => {

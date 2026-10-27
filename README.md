@@ -1,12 +1,14 @@
-# Babá Elvis — Landing Page
+# Bàbálórìsà Elvis de Osun — Landing Page
 
-Landing page provisória de Bàbálórìsà Elvis de Òṣun para atendimentos de amarração amorosa, reconciliação, harmonização e consulta pelo jogo de búzios.
+Landing page provisória de Bàbálórìsà Elvis de Osun para atendimentos de amarração amorosa, reconciliação, harmonização e consulta pelo jogo de búzios.
 
 ## Publicação
 
 - Hospedagem provisória: GitHub Pages.
 - Indexação bloqueada nesta fase com `noindex, nofollow`.
-- O projeto será atualizado com logotipo oficial, novas fotografias e vídeos enviados pelo cliente.
+- Identificação comercial atualizada para “Bàbálórìsà Elvis de Osun”.
+- Incluídos registros reais do espaço de consulta, de rituais amorosos e da fachada do Ilê.
+- O projeto poderá receber novos arquivos originais em maior resolução e vídeos enviados pelo cliente.
 
 ## Dados principais
 
