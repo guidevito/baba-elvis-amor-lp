@@ -9,6 +9,8 @@ Landing page provisória de Bàbálórìsà Elvis de Osun para atendimentos de a
 - Identificação comercial atualizada para “Bàbálórìsà Elvis de Osun”.
 - Brasão do Ilê, extraído sem redesenho da foto original, aplicado como botão de Home, favicon e identidade da página.
 - Retrato da página editado para retirar o brasão central; foto original preservada em `assets/baba-elvis-sacerdote.png`.
+- Brasão mantido com proporção quadrada e respiro no botão Home; reconstruções de IA que alteraram a inscrição foram descartadas.
+- Fotos dos dois rituais e do espaço de consulta tratadas em alta resolução e exibidas sem ampliação de screenshots; originais preservados em `assets/`.
 - Incluídos registros reais do espaço de consulta, de rituais amorosos e da fachada do Ilê.
 - O projeto poderá receber novos arquivos originais em maior resolução e vídeos enviados pelo cliente.
 
