@@ -37,10 +37,10 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .site-header.is-scrolled { position: fixed; background: #080a09; box-shadow: 0 10px 40px rgba(0,0,0,.22); }
 .header-inner { min-height: 84px; display: flex; align-items: center; justify-content: space-between; gap: 28px; }
 .brand { display: inline-flex; align-items: center; gap: 12px; text-decoration: none; }
-.home-logo-link { display: grid; flex: 0 0 auto; width: 46px; aspect-ratio: 1; padding: 3px; place-items: center; overflow: hidden; border: 1px solid rgba(226,195,127,.62); border-radius: 50%; background: #050605; box-shadow: 0 0 0 2px rgba(212,173,93,.08); transition: transform .2s ease, border-color .2s ease, box-shadow .2s ease; }
-.home-logo-link:hover { transform: translateY(-1px) scale(1.03); border-color: var(--gold-light); box-shadow: 0 0 0 4px rgba(212,173,93,.12); }
+.home-logo-link { display: grid; flex: 0 0 auto; width: 46px; aspect-ratio: 1; place-items: center; text-decoration: none; transition: transform .2s ease; }
+.home-logo-link:hover { transform: translateY(-1px); }
 .home-logo-link:focus-visible { outline: 2px solid var(--gold-light); outline-offset: 4px; }
-.brand-logo { display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: contain; border-radius: 50%; image-rendering: auto; }
+.brand-logo { display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: contain; }
 .brand-copy { display: grid; line-height: 1.08; }
 .brand-copy strong { font: 600 21px/1.1 var(--serif); letter-spacing: .01em; }
 .brand-copy small { margin-top: 5px; color: var(--gold-light); font-size: 10px; text-transform: uppercase; letter-spacing: .18em; }
@@ -95,7 +95,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .orbit-two { inset: -32px; border-style: dashed; animation: rotate 40s linear infinite; }
 .portrait-note { position: absolute; z-index: 3; right: -16px; bottom: 44px; display: flex; align-items: center; gap: 14px; width: 285px; padding: 16px 18px; background: rgba(251,248,241,.95); color: var(--ink); box-shadow: 0 20px 60px rgba(0,0,0,.32); }
 .portrait-note p { margin: 0; font-size: 12px; line-height: 1.45; }
-.note-seal { flex: 0 0 auto; display: block; width: 48px; height: 48px; object-fit: cover; border: 1px solid #9e7931; border-radius: 50%; }
+.note-seal { flex: 0 0 auto; display: block; width: 48px; height: 48px; object-fit: contain; }
 @keyframes rotate { to { transform: rotate(360deg); } }
 
 .trust-bar { background: #0c2f49; color: var(--white); }
