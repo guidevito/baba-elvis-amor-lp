@@ -95,7 +95,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .orbit-two { inset: -32px; border-style: dashed; animation: rotate 40s linear infinite; }
 .portrait-note { position: absolute; z-index: 3; right: -16px; bottom: 44px; display: flex; align-items: center; gap: 14px; width: 285px; padding: 16px 18px; background: rgba(251,248,241,.95); color: var(--ink); box-shadow: 0 20px 60px rgba(0,0,0,.32); }
 .portrait-note p { margin: 0; font-size: 12px; line-height: 1.45; }
-.note-seal { flex: 0 0 auto; display: grid; width: 48px; height: 48px; place-items: center; border: 1px solid #9e7931; border-radius: 50%; color: #7f6026; font: italic 700 17px/1 var(--serif); }
+.note-seal { flex: 0 0 auto; display: block; width: 48px; height: 48px; object-fit: cover; border: 1px solid #9e7931; border-radius: 50%; }
 @keyframes rotate { to { transform: rotate(360deg); } }
 
 .trust-bar { background: #0c2f49; color: var(--white); }

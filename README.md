@@ -7,7 +7,8 @@ Landing page provisória de Bàbálórìsà Elvis de Osun para atendimentos de a
 - Hospedagem provisória: GitHub Pages.
 - Indexação bloqueada nesta fase com `noindex, nofollow`.
 - Identificação comercial atualizada para “Bàbálórìsà Elvis de Osun”.
-- Logotipo oficial aplicado como botão de Home no cabeçalho e no rodapé.
+- Brasão do Ilê, extraído sem redesenho da foto original, aplicado como botão de Home, favicon e identidade da página.
+- Retrato da página editado para retirar o brasão central; foto original preservada em `assets/baba-elvis-sacerdote.png`.
 - Incluídos registros reais do espaço de consulta, de rituais amorosos e da fachada do Ilê.
 - O projeto poderá receber novos arquivos originais em maior resolução e vídeos enviados pelo cliente.
 
