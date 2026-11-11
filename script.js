@@ -7,7 +7,7 @@ const whatsappMessages = {
 
 document.querySelectorAll("[data-wa]").forEach((link) => {
   const message = whatsappMessages[link.dataset.wa] || whatsappMessages.geral;
-  link.href = `https://wa.me/5511953340776?text=${encodeURIComponent(message)}`;
+  link.href = `https://wa.me/5511981155965?text=${encodeURIComponent(message)}`;
   link.target = "_blank";
   link.rel = "noopener noreferrer";
 });

@@ -17,7 +17,7 @@ Landing page provisória de Bàbálórìsà Elvis de Osun para atendimentos de a
 
 ## Dados principais
 
-- WhatsApp: (11) 95334-0776.
+- WhatsApp: (11) 98115-5965.
 - Consulta espiritual: R$ 210,00.
 - Atendimento online e presencial mediante agendamento.
 - Sede do Ilê Asé Iya Tafa Wura em Ferraz de Vasconcelos, São Paulo.
