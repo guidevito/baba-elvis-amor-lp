@@ -5,6 +5,7 @@ Landing page provisória de Bàbálórìsà Elvis de Osun para atendimentos de a
 ## Publicação
 
 - Hospedagem provisória: GitHub Pages.
+- Google Tag Manager: `GTM-KHJC8VZL`, com script no head e fallback noscript imediatamente após a abertura do body. Instalação do container não configura automaticamente tags ou conversões.
 - Indexação bloqueada nesta fase com `noindex, nofollow`.
 - Identificação comercial atualizada para “Bàbálórìsà Elvis de Osun”.
 - Brasão do Ilê, extraído sem redesenho da foto original, aplicado como botão de Home, favicon e identidade da página.
